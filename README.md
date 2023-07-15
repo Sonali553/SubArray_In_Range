@@ -7,7 +7,7 @@ Input
  B = 1,
  C = 3
  
- Output
+ Output:
  [3, 2, 6]
 
  Input
@@ -15,5 +15,5 @@ Input
  B = 0,
  C = 1
  
- Output
+ Output:
  [4, 2]
